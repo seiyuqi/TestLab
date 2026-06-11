@@ -378,7 +378,7 @@ function ConceptVideoSection() {
           <div className="relative overflow-hidden rounded-[2.25rem] border border-border bg-card shadow-[0_20px_60px_rgba(16,32,48,0.06)]">
             <iframe
               className="aspect-video w-full"
-              src="https://www.youtube.com/embed/Q_Pp8TqVGf8"
+              src="https://youtu.be/Q_Pp8TqVGf8"
               title="Concept Video"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerPolicy="strict-origin-when-cross-origin"
